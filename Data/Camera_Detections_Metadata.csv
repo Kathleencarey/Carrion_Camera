@@ -1,0 +1,10 @@
+Variable,Definition
+Site,"Broader location where the data collection occurred within  Panther Swamp National Wildlife Refuge, Yazoo, Mississippi, USA"
+Plot,"Independent plot location names within each site. All the plots were composed of old-growth, bottomland hardwood forests with similar canopy covers "
+Camera,Individual camera ID
+Month,"Month of deployment (August, September, or November)"
+Observation_Date,Date of detection following the day/month/year format
+Species,Wildlife species detected on the corresponding camera
+Number_of_Individuals,The number of individuals observed on the detection
+Deployment_Date,Date of camera deployment at the plot following the day/month/year format
+Design,"Camera trap design (V = Vertical, H = Horizontal)"

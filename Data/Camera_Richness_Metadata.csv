@@ -1,0 +1,7 @@
+Variable,Definition
+Random_Effect,"The unique combination of site and plot for the corresponding richness, used as a random effect in the analysis"
+Site,"Broader location where the data collection occurred within  Panther Swamp National Wildlife Refuge, Yazoo, Mississippi, USA"
+Plot,"Independent plot location names within each site. All the plots were composed of old-growth, bottomland hardwood forests with similar canopy covers "
+Month,"Month of deployment (August, September, or November)"
+Design,"Camera trap design (V = Vertical, H = Horizontal)"
+Richness,The number of unique wildlife species detected at the given site and plot
