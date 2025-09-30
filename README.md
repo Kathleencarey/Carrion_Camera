@@ -1,4 +1,4 @@
-# Analyses and data for: Lahiri A., Carey K.A., Barton B., Cove M.V., Baruzzi C. Combining Camera Trap Designs Increase Scavenger Species Detection at Carrion Sites. Ecology and Evolution, In Review 
+# Analyses and data for: Lahiri A., Carey K.A., Barton B., Cove M.V., Baruzzi C. Camera Trap Design Determines Wildlife Species Detected at Carrion Sites. Ecology and Evolution, In Review 
 This repository provides the data and R code to reproduce the analyses from: Lahiri A., Carey K.A., Barton B., Cove M.V., Baruzzi C. Combining Camera Trap Designs Increase Scavenger Species Detection at Carrion Sites. Ecology and Evolution, In Review.
 
 ## Data Folder Description
